@@ -20,14 +20,6 @@ This project is a basic **Calculator Application** developed using **C#** and **
 2. Click the corresponding button (`+`, `-`, `*`, `/`) to perform the calculation.
 3. The result will be displayed on the screen.
 
-## Screenshots
 
-![Calculator Screenshot](images/calculator-screenshot.png)
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/calculator-app.git
 
 ![image](https://github.com/user-attachments/assets/5f6e9681-807e-4ea2-a2c5-5e04d42b0256)
